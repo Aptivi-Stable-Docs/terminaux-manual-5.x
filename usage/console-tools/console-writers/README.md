@@ -117,7 +117,7 @@ Finally, the miscellaneous writers are the writers that don't have any meaningfu
 * `LineHandleRangedWriter`
   * Provides you with the necessary functions to allow you to render a line of a text file with the compiler-like line handle using the specified line and column range to the console. This is used to highlight relevant parts of the entire line
 * `KeybindingsWriter`
-  * Provides you with the nececssary functions that allow you to write the horizontal list of keybindings according to the list specified. Some of these functions also allow you to write a modal informational box that shows a list of keybindings. For more information, see [this page](../../input-reader/other-input/keybindings.md).
+  * Provides you with the necessary functions that allow you to write the horizontal list of keybindings according to the list specified. Some of these functions also allow you to write a modal informational box that shows a list of keybindings. For more information, see [this page](../../input-reader/other-input/keybindings.md).
 
 Consult the below page to find out how to use these functions:
 
