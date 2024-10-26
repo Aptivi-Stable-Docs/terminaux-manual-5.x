@@ -1,8 +1,9 @@
 ---
 description: Welcome to Terminaux!
+icon: hand-wave
 ---
 
-# 👋 Welcome!
+# Welcome!
 
 {% hint style="info" %}
 Terminaux 5.x is currently under maintenance, but [under another branch](https://github.com/Aptivi/Terminaux/tree/x/oob/5.4.x). This series is supported until August 1st, 2026.
