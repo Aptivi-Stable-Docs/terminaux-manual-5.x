@@ -1,12 +1,12 @@
 ---
-icon: hand-wave
 description: Welcome to Terminaux!
+icon: hand-wave
 ---
 
 # Welcome!
 
 {% hint style="info" %}
-Terminaux 5.x is currently under maintenance, but [under another branch](https://github.com/Aptivi/Terminaux/tree/x/oob/5.4.x). This series is supported until September 26th, 2025.
+Terminaux 5.x is currently under maintenance, but [under another branch](https://gitlab.com/aptivi/main/Terminaux/-/tree/x/oob/5.4.x). This series is supported until September 26th, 2025.
 
 If you still use old versions of Terminaux in your projects, go to the below links:
 
